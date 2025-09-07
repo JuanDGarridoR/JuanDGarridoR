@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDGarridoR)](https://github.com/JuanDGarridoR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanDGarridoR&show_icons=true)](https://github.com/JuanDGarridoR/github-readme-stats&show_icons=true)
 
 <!--
 **JuanDGarridoR/JuanDGarridoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
