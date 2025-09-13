@@ -19,9 +19,9 @@
   <img alt="Top languages" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDGarridoR&layout=compact&theme=transparent"/>
 </div>
 
-##Technologies
+## Lenguages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,vscode,github" />
   </a>
 </p>
