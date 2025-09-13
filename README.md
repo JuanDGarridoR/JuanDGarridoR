@@ -22,6 +22,6 @@
 ## Lenguages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,vscode,html,css,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode,github" />
   </a>
 </p>
