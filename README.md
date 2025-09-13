@@ -18,3 +18,10 @@
 <div align="center">
   <img alt="Top languages" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDGarridoR&layout=compact&theme=transparent"/>
 </div>
+
+##Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</p>
