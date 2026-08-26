@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan David 👋</h1>
 
 <p align="center">
-  Systems Engineering student at <b>Pontificia Universidad Javeriana</b> 🇨🇴
+  Systems Engineering student at <b>Pontificia Universidad Javeriana</b>
 </p>
 
 <p align="center">
