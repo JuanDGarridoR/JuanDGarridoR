@@ -1,27 +1,58 @@
-<h1 align="center">WELCOME TO MY GITHUB!</h1>
+<h1 align="center">Hi, I'm Juan David 👋</h1>
 
-<p align="center">I'm Juan David Garrido Ramos, Systems Engineering student at the Pontificia Universidad Javeriana. I love learning new programming languages and improving my coding skills step by step.</p>
-
-## My statistics
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="My statistics" height="200px" src="https://github-readme-stats.vercel.app/api?username=JuanDGarridoR&show_icons=true&theme=transparent"/> 
-    </td>
-    <td align="center">
-      <img alt ="My streak" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDGarridoR&theme=transparent"/>
-    </td>
-  </tr>
-</table>
-
-## Top lenguages
-<div align="center">
-  <img alt="Top languages" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDGarridoR&layout=compact&theme=transparent"/>
-</div>
-
-## Lenguages and tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,vscode,github" />
+  Systems Engineering student at <b>Pontificia Universidad Javeriana</b> 🇨🇴
+</p>
+
+<p align="center">
+  Interested in <b>Data Analytics, Machine Learning, IA</b> and technology.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Systems Engineering student interested in data and software development. I enjoy learning new technologies, building projects, and continuously improving my technical skills.
+
+I'm particularly interested in:
+
+* 📊 Data Analytics and Data Visualization
+* 🤖 Machine Learning
+* 💻 Software Development
+* 🗄️ Databases and SQL
+* 📈 Business Intelligence
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,r,mysql,postgres,vscode,git,github,spring" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+* Data Science
+* Machine Learning
+* SQL
+* Power BI
+* Software Architecture
+* Backend Development
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:juandgarridor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/juan-david-garrido-ramos-1414b9246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JuanDGarridoR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
